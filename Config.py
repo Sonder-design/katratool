@@ -8,7 +8,7 @@
 
 name_tool       =  "Katra Tool"
 type_tool       =  "Multi-Tools"
-version_tool    =  "2.0"
+version_tool    =  "3.0"
 coding_tool     =  "Python 3"
 language_tool   =  "EN"
 creator         =  "deviceattcker"
