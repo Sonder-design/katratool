@@ -1,18 +1,14 @@
-# ----------------------------------------------------------------------------------------------------------------------------------------------------------|
-# 
-#     - Do not touch or modify the code below. If there is an error, please contact the owner, but under no circumstances should you touch the code.
-#     - Do not resell this tool, do not credit it to yours.
-
-name_tool       =  "Katra Tool"
-type_tool       =  "Multi-Tools"
-version_tool    =  "2.0"
+name_tool       =  "NN"
+type_tool       =  "Tool"
+version_tool    =  "1.0"
 coding_tool     =  "Python 3"
-language_tool   =  "EN"
+language_tool   =  "RU"
 creator         =  "deviceattcker"
-platform        =  "Windows 10/11 & Linux"
-discord_server  =  "darkkatra"
-telegram        =  "t.me/darkkatra"
-discord_tool     =  "https://discord.gg/darkkatra"
+platform        =  "Windows 10/11"
+discord_server  =  "nnclxn"
+telegram        =  "t.me/toxicificaton"
+discord_tool    =  "https://discord.gg/nnclxn"
 url_config      =  "https://raw.githubusercontent.com/Sonder-design/katratool/refs/heads/main/Config.py"
-url_downloads   =  "https://discord.gg/darkkatra"
-
+url_downloads   =  "telegram @toxicification"
+website         =  "ke"
+github_tool     =  "maybe to 2025"
